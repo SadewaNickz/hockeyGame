@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Hockey Game.sln"
+    "dotnet.defaultSolution": "PROJEK-GAME-UTS.sln"
 }
