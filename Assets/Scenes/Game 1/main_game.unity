@@ -1008,7 +1008,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &103433567
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6809,7 +6809,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &958867059
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7158,9 +7158,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1577354926}
-        m_TargetAssemblyTypeName: scene_management, Assembly-CSharp
-        m_MethodName: GameStart
+      - m_Target: {fileID: 1577354927}
+        m_TargetAssemblyTypeName: GameManagerGame1, Assembly-CSharp
+        m_MethodName: play_again
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -11970,8 +11970,8 @@ MonoBehaviour:
   livesText: {fileID: 791784365}
   timerText: {fileID: 2134460728}
   levelText: {fileID: 1117716062}
-  gameOverPanel: {fileID: 0}
-  winPanel: {fileID: 0}
+  endPanel: {fileID: 958867058}
+  finalScoreText: {fileID: 2034465233}
   PauseMenu: {fileID: 1010625303}
   Gameplay: {fileID: 103433566}
 --- !u!1 &1580624002
