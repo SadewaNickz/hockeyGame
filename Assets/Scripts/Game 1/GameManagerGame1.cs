@@ -26,16 +26,35 @@ public class GameManagerGame1 : MonoBehaviour
 
     void Start()
     {
+        // Inisialisasi array levels
         levels = new GameObject[10];
+
+        // Isi array dengan GameObject bernama "Level_1" sampai "Level_10"
+        for (int i = 0; i < 10; i++)
+        {
+            levels[i] = GameObject.Find("Level_" + (i + 1));
+
+            if (levels[i] != null)
+                levels[i].SetActive(false); // Matikan semua level dulu
+            else
+                Debug.LogWarning("Level_" + (i + 1) + " tidak ditemukan di Hierarchy!");
+        }
+
+        currentLevel = 0;
+
+        // Aktifkan hanya Level_1
+        if (levels[currentLevel] != null)
+            levels[currentLevel].SetActive(true);
+
         currentTime = totalGameTime;
         UpdateUI();
-        ActivateLevel(currentLevel);
 
         endPanel.SetActive(false);
         PauseMenu.SetActive(false);
         Gameplay.SetActive(true);
         Time.timeScale = 1f;
     }
+
 
     void Update()
     {
@@ -52,10 +71,13 @@ public class GameManagerGame1 : MonoBehaviour
 
     public void Answer(bool isCorrect)
     {
+        Debug.Log("Ditekan. isCorrect = " + isCorrect);
+
         if (!isCorrect)
         {
+            Debug.Log("Jawaban SALAH");
             lives--;
-            score -= 10;
+            score -= 100;
 
             if (lives >= 0 && lives < lifeImages.Length)
             {
@@ -72,6 +94,7 @@ public class GameManagerGame1 : MonoBehaviour
         }
         else
         {
+            Debug.Log("Jawaban BENAR");
             score += 100;
             UpdateUI();
 
@@ -85,6 +108,7 @@ public class GameManagerGame1 : MonoBehaviour
             }
         }
     }
+
 
     public void NextLevel()
     {
@@ -136,13 +160,7 @@ public class GameManagerGame1 : MonoBehaviour
 
     void Win()
     {
-        if (currentTime <= 300f)
-        {
-            score += 5000;
-            Debug.Log("Bonus skor +5000 karena selesai < 5 menit!");
-        }
-
-        ShowEndPanel();
+        ShowEndPanel(); // Bonus skor 5000 dihapus
     }
 
     void ShowEndPanel()

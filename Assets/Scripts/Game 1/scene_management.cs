@@ -4,9 +4,7 @@ using UnityEngine.SceneManagement;
 public class scene_management : MonoBehaviour
 {
     public bool isEscapeToExit;
-    public GameObject PauseMenu;
-    public GameObject Gameplay;
-    public GameObject Level_1, Level_2, Level_3, Level_4, Level_5, Level_6, Level_7, Level_8, Level_9, Level_10;
+    public GameObject Settings, MainMenu, Gameplay, PauseMenu;
 
     private bool isPaused = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -57,10 +55,16 @@ public class scene_management : MonoBehaviour
         Time.timeScale = 1f;
     }
 
-    public void nextLevel()
+    public void OpenSettingsMenu()
     {
-        Level_1.SetActive(false);
-        Level_2.SetActive(true);
+        MainMenu.SetActive(false);
+        Settings.SetActive(true);
+    }
+
+    public void BackFromSettings()
+    {
+        Settings.SetActive(false);
+        MainMenu.SetActive(true);
     }
 
     public void QuitApplication()

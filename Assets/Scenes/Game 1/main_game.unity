@@ -580,7 +580,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: inter milan
 --- !u!222 &62856304
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -792,7 +792,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: cristiano ronaldo
 --- !u!222 &84439955
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -871,7 +871,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: 'antony
+
+'
 --- !u!222 &89392004
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1176,7 +1178,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: Klub manakah yang berhasil meraih treble winner pada season 2014 - 2015?
 --- !u!222 &117352754
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1255,7 +1257,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: Siapakah pencetak gol terbanyak sepanjang sejarah Manchester United?
 --- !u!222 &125194155
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1603,7 +1605,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: Siapa pemenang ballon d'Or tahun terbanyak?
 --- !u!222 &213897225
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2054,7 +2056,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Real Madrid
 --- !u!222 &302085116
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2435,7 +2437,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: 'bayern munchen
+
+'
 --- !u!222 &375788520
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3562,7 +3566,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: 'pep Guardiola
+
+'
 --- !u!222 &515769773
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3641,7 +3647,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: blue and garnet
 --- !u!222 &516305867
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4004,7 +4010,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Ac milan
 --- !u!222 &540657587
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4162,7 +4168,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: unai emery
 --- !u!222 &568706622
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4515,7 +4521,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: 'Lionel
+
+    Messi'
 --- !u!222 &590763709
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4617,7 +4625,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &633662665
 MonoBehaviour:
@@ -4750,7 +4758,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &635492882
 MonoBehaviour:
@@ -4898,7 +4906,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: 'francesco totti
+
+'
 --- !u!222 &641495638
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5250,7 +5260,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Barcelona
 --- !u!222 &738950664
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5462,7 +5472,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: 'Kylian Mbappe
+
+'
 --- !u!222 &769431123
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5541,7 +5553,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Cristiano Ronaldo
 --- !u!222 &775551039
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6257,7 +6269,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Aku Suka Kucing
+  m_Text: pemain klub sepak bola manakah ini?
 --- !u!222 &883419636
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6374,7 +6386,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Bayern munchen
 --- !u!222 &898031955
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7066,7 +7078,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: The red and black
 --- !u!222 &1032921906
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7416,7 +7428,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1091768854
 MonoBehaviour:
@@ -7526,7 +7538,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: "the\_reds\ndevil"
 --- !u!222 &1093620423
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7797,7 +7809,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: man city
 --- !u!222 &1109968469
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8134,7 +8146,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1133839072
 MonoBehaviour:
@@ -8267,7 +8279,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1137284902
 MonoBehaviour:
@@ -9144,7 +9156,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: Siapakah manager yang pernah meraih gelar the invincibles bersama klubnya?
 --- !u!222 &1196693988
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9417,7 +9429,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1223142380
 MonoBehaviour:
@@ -9644,7 +9656,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: Klub manakah yang mempunyai trofi ucl paling banyak?
 --- !u!222 &1251349388
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9723,7 +9735,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: 'Ac Milan dikenal dengan julukan "I Rossoneri" Yang artinya? '
 --- !u!222 &1257098032
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9802,7 +9814,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Arsene Wenger
 --- !u!222 &1259546732
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10136,7 +10148,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: 'mikel
+
+    arteta'
 --- !u!222 &1321783319
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10294,7 +10308,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: man united
 --- !u!222 &1352342673
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10915,7 +10929,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: ac milan
 --- !u!222 &1425584554
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10994,7 +11008,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Barcelona
 --- !u!222 &1430726670
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11287,7 +11301,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1511705405
 MonoBehaviour:
@@ -11921,18 +11935,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isEscapeToExit: 0
-  PauseMenu: {fileID: 1010625303}
+  Settings: {fileID: 0}
+  MainMenu: {fileID: 0}
   Gameplay: {fileID: 103433566}
-  Level_1: {fileID: 1931466723}
-  Level_2: {fileID: 224026558}
-  Level_3: {fileID: 517990325}
-  Level_4: {fileID: 482024183}
-  Level_5: {fileID: 1240994648}
-  Level_6: {fileID: 1025236078}
-  Level_7: {fileID: 1920283245}
-  Level_8: {fileID: 715292566}
-  Level_9: {fileID: 1810170051}
-  Level_10: {fileID: 327364897}
+  PauseMenu: {fileID: 1010625303}
 --- !u!114 &1577354927
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11945,7 +11951,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6581789f06cf7b948b92d6b0e8b98d39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  score: 100
+  score: 0
   lives: 6
   totalGameTime: 600
   lifeImages:
@@ -12123,7 +12129,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Carlo Ancelotti
 --- !u!222 &1583213524
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12451,7 +12457,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Wayne Rooney
 --- !u!222 &1673905080
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13008,7 +13014,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: paolo Maldini
 --- !u!222 &1725558452
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13087,7 +13093,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: As Roma
 --- !u!222 &1734337296
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13268,7 +13274,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1738448012
 MonoBehaviour:
@@ -13611,7 +13617,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Juventus
 --- !u!222 &1781459038
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14054,7 +14060,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: 'Manager yang paling banyak memenangkan title UEFA Champions League? '
 --- !u!222 &1845034798
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14364,7 +14370,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: Siapakah pemain legendaris asal argentina yang dikenal sebagai kapten abadi
+    inter milan?
 --- !u!222 &1876466720
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14834,7 +14841,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1947951399
 MonoBehaviour:
@@ -14944,7 +14951,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Zinedine Zidane
 --- !u!222 &1949422171
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15652,7 +15659,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Apakah kamu waras?
+  m_Text: Klub yang mendapat julukan "Si nyonya tua" Adalah
 --- !u!222 &2062965762
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16022,7 +16029,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jawaban
+  m_Text: Javier Zanetti
 --- !u!222 &2146484585
 CanvasRenderer:
   m_ObjectHideFlags: 0
