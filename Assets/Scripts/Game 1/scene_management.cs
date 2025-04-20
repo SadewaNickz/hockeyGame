@@ -10,7 +10,14 @@ public class scene_management : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Settings.SetActive(false);
+        if (Settings != null)
+        {
+            Settings.SetActive(false);
+        }
+        else 
+        {
+            Debug.LogWarning("Settings GameObject Tidak Ada");
+        }
     }
 
     // Update is called once per frame
@@ -58,8 +65,17 @@ public class scene_management : MonoBehaviour
 
     public void OpenSettingsMenu()
     {
-        MainMenu.SetActive(false);
-        Settings.SetActive(true);
+        if (MainMenu != null)
+        {
+            MainMenu.SetActive(false);
+            Settings.SetActive(true);
+        }
+        else 
+        {
+            Gameplay.SetActive(false);
+            PauseMenu.SetActive(false);
+            Settings.SetActive(true);
+        }
     }
 
     public void BackFromSettings()
