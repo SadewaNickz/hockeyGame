@@ -10,6 +10,7 @@ public class scene_management : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Settings.SetActive(false);
     }
 
     // Update is called once per frame
