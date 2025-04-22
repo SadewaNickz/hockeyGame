@@ -56,4 +56,9 @@ public class HalamanManager : MonoBehaviour
     {
     SceneManager.LoadScene("LawanBot");
     }
+
+    public void ChooseCharacterBot()
+    {
+    SceneManager.LoadScene("ChooseChar");
+    }
 }
