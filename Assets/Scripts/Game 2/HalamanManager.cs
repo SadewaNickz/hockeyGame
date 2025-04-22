@@ -61,4 +61,8 @@ public class HalamanManager : MonoBehaviour
     {
     SceneManager.LoadScene("ChooseChar");
     }
+    public void KeluarPermainan()
+    {
+    SceneManager.LoadScene("MainMenu");
+    }
 }
