@@ -77,7 +77,7 @@ public class GameManagerGame1 : MonoBehaviour
         {
             Debug.Log("Jawaban SALAH");
             lives--;
-            score -= 100;
+            score = Mathf.Max(0, score - 100);
 
             if (lives >= 0 && lives < lifeImages.Length)
             {
