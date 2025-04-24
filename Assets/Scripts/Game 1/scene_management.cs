@@ -86,6 +86,6 @@ public class scene_management : MonoBehaviour
 
     public void QuitApplication()
     {
-        Application.Quit();
+        SceneManager.LoadScene("MainMenu");
     }
 }

@@ -56,4 +56,13 @@ public class HalamanManager : MonoBehaviour
     {
     SceneManager.LoadScene("LawanBot");
     }
+
+    public void ChooseCharacterBot()
+    {
+    SceneManager.LoadScene("ChooseChar");
+    }
+    public void KeluarPermainan()
+    {
+    SceneManager.LoadScene("MainMenu");
+    }
 }
