@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class GameManagerGame1 : MonoBehaviour
 {
     public int score = 100;
-    public int lives = 6;
+    public int lives = 3;
     public float totalGameTime = 600f;
     private float currentTime;
 
