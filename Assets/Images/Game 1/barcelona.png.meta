@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barcelona_0: -5142960633666174691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

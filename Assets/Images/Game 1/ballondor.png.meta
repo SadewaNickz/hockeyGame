@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ballondor_0: 6674854884304477411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
