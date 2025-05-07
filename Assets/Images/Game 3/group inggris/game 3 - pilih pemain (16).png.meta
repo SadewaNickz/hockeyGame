@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      game 3 - pilih pemain (16)_0: 3709472292114166963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
