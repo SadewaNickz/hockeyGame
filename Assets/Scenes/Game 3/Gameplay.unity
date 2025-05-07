@@ -319,8 +319,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameTag: LigaInggris
-  audioBenar: {fileID: 0}
-  audioSalah: {fileID: 0}
+  audioBenar: {fileID: 8300000, guid: 34849d16e592d7d4283ada3a7bd7645b, type: 3}
+  audioSalah: {fileID: 8300000, guid: 73048c70198a0a6409dca344073d5399, type: 3}
   textScore: {fileID: 1715628601}
 --- !u!212 &175744095
 SpriteRenderer:
@@ -1357,8 +1357,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameTag: LigaEropa
-  audioBenar: {fileID: 0}
-  audioSalah: {fileID: 0}
+  audioBenar: {fileID: 8300000, guid: 34849d16e592d7d4283ada3a7bd7645b, type: 3}
+  audioSalah: {fileID: 8300000, guid: 73048c70198a0a6409dca344073d5399, type: 3}
   textScore: {fileID: 1715628601}
 --- !u!212 &1452343071
 SpriteRenderer:
