@@ -36,7 +36,7 @@ public class PilihanGame : MonoBehaviour
     {
         // Game yang sedang digarap
         Destroy(GameObject.Find("BGMPlayer"));
-        StartCoroutine(DelayedSceneLoad("Coming"));
+        StartCoroutine(DelayedSceneLoad("Menu_3"));
     }
 
     // Fungsi tombol "Back"
