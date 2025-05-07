@@ -5,6 +5,8 @@ public class HalamanManager : MonoBehaviour
 {
     public bool isEscapeToExit;
 
+    public CharacterSwitcher characterSwitcher; // Tambahkan ini
+
     void Start()
     {
         // Bisa panggil musik sesuai scene

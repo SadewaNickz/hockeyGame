@@ -436,8 +436,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 98cda6856f0bf0f4ca20cfe6d8532ac7, type: 3}
-  m_Resource: {fileID: 8300000, guid: 98cda6856f0bf0f4ca20cfe6d8532ac7, type: 3}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -536,6 +536,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isEscapeToExit: 1
+  characterSwitcher: {fileID: 0}
 --- !u!114 &799089828
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -686,7 +687,7 @@ MonoBehaviour:
   characterImage: {fileID: 252571567}
   characterSprites:
   - {fileID: -5960830289834092126, guid: d72e68d09c3ccf64eafa1d5db971f3cd, type: 3}
-  - {fileID: -7293013115953481130, guid: 54573017a1e1597429e4245820a10b85, type: 3}
+  - {fileID: 7015756543411222929, guid: 80f429312db2ae4428f6578c1bf957f3, type: 3}
 --- !u!4 &953311187
 Transform:
   m_ObjectHideFlags: 0
