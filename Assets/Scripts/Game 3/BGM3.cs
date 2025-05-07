@@ -22,7 +22,7 @@ public class BGM3 : MonoBehaviour
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         // Jika masuk ke scene LawanBot atau Main, hancurkan BGM2
-        if (scene.name == "LawanBot" || scene.name == "Main" || scene.name == "MainMenu")
+        if (scene.name == "LawanBot" || scene.name == "Main" || scene.name == "MainMenu" || scene.name == "GameOver")
         {
             Destroy(gameObject);
         }

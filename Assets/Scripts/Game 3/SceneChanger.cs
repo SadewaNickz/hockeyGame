@@ -12,4 +12,9 @@ public class SceneChanger : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+
+    public void Menu_3()
+    {
+        SceneManager.LoadScene("Menu_3");
+    }
 }
