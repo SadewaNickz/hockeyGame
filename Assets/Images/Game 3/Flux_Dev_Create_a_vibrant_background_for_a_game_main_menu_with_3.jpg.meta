@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flux_Dev_Create_a_vibrant_background_for_a_game_main_menu_with_3_0: 8916702143403136977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

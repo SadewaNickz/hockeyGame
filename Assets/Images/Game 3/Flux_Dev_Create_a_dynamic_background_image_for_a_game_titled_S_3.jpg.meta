@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flux_Dev_Create_a_dynamic_background_image_for_a_game_titled_S_3_0: 3169847003902038685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flux_Dev_Create_a_vibrant_background_for_the_game_titled_DUEL__0_0: -5449389647228290322
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
