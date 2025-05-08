@@ -820,6 +820,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isEscapeToExit: 0
+  characterSwitcher: {fileID: 0}
 --- !u!82 &519420034
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1852,7 +1853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6c42e9fd5a1c8a418cc48db9591a272, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTime: 30
+  startTime: 60
   timerText: {fileID: 994335509}
   ballController: {fileID: 1277057707}
 --- !u!114 &994335509

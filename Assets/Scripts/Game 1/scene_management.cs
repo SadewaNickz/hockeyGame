@@ -86,6 +86,7 @@ public class scene_management : MonoBehaviour
 
     public void QuitApplication()
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");
     }
 }

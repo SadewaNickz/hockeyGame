@@ -2845,6 +2845,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isEscapeToExit: 0
+  characterSwitcher: {fileID: 0}
 --- !u!114 &1496546707
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3161,7 +3162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6c42e9fd5a1c8a418cc48db9591a272, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTime: 5
+  startTime: 60
   timerText: {fileID: 1842192303}
   ballController: {fileID: 836554660}
 --- !u!114 &1842192303

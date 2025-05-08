@@ -338,7 +338,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_SizeDelta: {x: 375, y: 570}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &26843449
 MonoBehaviour:
@@ -360,7 +360,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: 6513005095947165806, guid: f830fd4fd2c0e1d4497e530e772ee8ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1030,7 +1030,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_SizeDelta: {x: 400, y: 528}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &112838395
 MonoBehaviour:
@@ -1052,7 +1052,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: 8941778508189619278, guid: 63bee297393426045ab9289cfb3c1177, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1590,7 +1590,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_SizeDelta: {x: 300, y: 565}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &211393442
 MonoBehaviour:
@@ -1612,7 +1612,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: 6068510301185460545, guid: 40aa15924dccad54b836467bcd8fe25d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1700,7 +1700,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Siapa pemenang ballon d'Or tahun terbanyak?
+  m_Text: Siapa pemenang ballon d'Or terbanyak?
 --- !u!222 &213897225
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2732,7 +2732,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_SizeDelta: {x: 305, y: 565}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &389052422
 MonoBehaviour:
@@ -2754,7 +2754,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: 2198686103124524832, guid: 1d275b97fb2552147826b2cb161f09fc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3936,7 +3936,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_SizeDelta: {x: 380, y: 550}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &521955540
 MonoBehaviour:
@@ -3958,7 +3958,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: -385209650823783053, guid: 5335b2360558c074e8a785417104d712, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7168,7 +7168,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_SizeDelta: {x: 343, y: 508}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &932393055
 MonoBehaviour:
@@ -7190,7 +7190,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: 6289341682636465523, guid: 21a4a3902ab24de46b63af92353e2d27, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9904,7 +9904,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Klub manakah yang mempunyai trofi ucl paling banyak?
+  m_Text: Tim sepak bola yang dibela oleh pemain disamping?
 --- !u!222 &1251349388
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11375,7 +11375,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_SizeDelta: {x: 250, y: 550}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1499882794
 MonoBehaviour:
@@ -11397,7 +11397,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: -1837972841828014777, guid: b727af7a252e0d148937c4b77968c2b5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14074,7 +14074,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_SizeDelta: {x: 505, y: 565}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1821521347
 MonoBehaviour:
@@ -14096,7 +14096,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: -6989495785908772370, guid: 55ce1b2fd7c181849ba685db13614bd6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14383,8 +14383,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 489, y: 24}
-  m_SizeDelta: {x: 596.664, y: 596.664}
+  m_AnchoredPosition: {x: 512, y: 90}
+  m_SizeDelta: {x: 630, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1870623208
 MonoBehaviour:
@@ -14406,7 +14406,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5115312017789670374, guid: bc9a4ade90b30514bb2edc4ef7e61e66, type: 3}
+  m_Sprite: {fileID: -5142960633666174691, guid: 28d156b9e00d43149b73ab69ea60642c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

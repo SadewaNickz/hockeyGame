@@ -7,6 +7,12 @@ public class MainMenuManager : MonoBehaviour
     public AudioSource audioSource;
     public AudioClip buttonClickSound;
     public float delayBeforeScene = 0.3f; // Waktu tunggu sebelum pindah scene
+    public GameObject ExitPopup;
+
+    void Start()
+    {
+        ExitPopup.SetActive(false);
+    }
 
     private void PlaySFX()
     {
@@ -28,9 +34,7 @@ public class MainMenuManager : MonoBehaviour
 
     public void ExitGame()
     {
-        PlaySFX();
-        Debug.Log("Game Quit");
-        Application.Quit();
+        ExitPopup.SetActive(true);
     }
 
     private IEnumerator DelayedSceneLoad(string sceneName)
