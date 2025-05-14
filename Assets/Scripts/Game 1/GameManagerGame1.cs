@@ -24,6 +24,9 @@ public class GameManagerGame1 : MonoBehaviour
     public GameObject PauseMenu;
     public GameObject Gameplay;
 
+    public AudioSource musicSource; // Untuk musik latar
+    public AudioSource sfxSource;   // Untuk efek suara transisi
+
     void Start()
     {
         // Inisialisasi array levels
@@ -35,7 +38,7 @@ public class GameManagerGame1 : MonoBehaviour
             levels[i] = GameObject.Find("Level_" + (i + 1));
 
             if (levels[i] != null)
-                levels[i].SetActive(false); // Matikan semua level dulu
+                levels[i].SetActive(false);
             else
                 Debug.LogWarning("Level_" + (i + 1) + " tidak ditemukan di Hierarchy!");
         }
@@ -53,8 +56,10 @@ public class GameManagerGame1 : MonoBehaviour
         PauseMenu.SetActive(false);
         Gameplay.SetActive(true);
         Time.timeScale = 1f;
-    }
 
+        // Mainkan musik untuk level pertama
+        PlayLevelAudio(currentLevel);
+    }
 
     void Update()
     {
@@ -109,10 +114,11 @@ public class GameManagerGame1 : MonoBehaviour
         }
     }
 
-
     public void NextLevel()
     {
-        levels[currentLevel].SetActive(false);
+        if (levels[currentLevel] != null)
+            levels[currentLevel].SetActive(false);
+
         currentLevel++;
 
         if (currentLevel >= levels.Length)
@@ -121,8 +127,35 @@ public class GameManagerGame1 : MonoBehaviour
             return;
         }
 
-        levels[currentLevel].SetActive(true);
+        GameObject nextLevel = levels[currentLevel];
+        if (nextLevel != null)
+        {
+            nextLevel.SetActive(true);
+            PlayLevelAudio(currentLevel);
+        }
+
         UpdateUI();
+    }
+
+    void PlayLevelAudio(int index)
+    {
+        if (index < levels.Length && levels[index] != null)
+        {
+            LevelAudioSettings audioSettings = levels[index].GetComponent<LevelAudioSettings>();
+            if (audioSettings != null)
+            {
+                if (audioSettings.transitionSound != null && sfxSource != null)
+                {
+                    sfxSource.PlayOneShot(audioSettings.transitionSound);
+                }
+
+                if (audioSettings.backgroundMusic != null && musicSource != null)
+                {
+                    musicSource.clip = audioSettings.backgroundMusic;
+                    musicSource.Play();
+                }
+            }
+        }
     }
 
     void ActivateLevel(int index)
